@@ -1,0 +1,236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"border"
+			],
+			[
+				"bacgr",
+				"background"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"en",
+				"enter_value"
+			],
+			[
+				"we",
+				"webdriver"
+			],
+			[
+				"s",
+				"selenium"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"se",
+				"selenium"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/frederic/Desktop/html/div.css",
+		"/C/Users/frederic/Desktop/html/ul.html",
+		"/C/Users/frederic/Desktop/html/heading.html",
+		"/C/Users/frederic/Desktop/html/Table exercise.html",
+		"/C/Users/frederic/Desktop/html/calculator.html",
+		"/C/Users/frederic/Desktop/html/exercise.html",
+		"/C/Users/frederic/Desktop/html/cls.css",
+		"/C/Users/frederic/Desktop/html/class.html",
+		"/C/Users/frederic/Desktop/html/head.html",
+		"/C/Users/frederic/Desktop/html/new.css",
+		"/C/Users/frederic/Desktop/Frederic Mokolo Software-Testing Resume.doc",
+		"/C/Users/frederic/Desktop/resume.html",
+		"/C/Users/frederic/Desktop/try1.py",
+		"/C/Users/frederic/Desktop/testsuite.py",
+		"/C/Users/frederic/Desktop/ebay.py",
+		"/C/Users/frederic/Desktop/amazon.py",
+		"/C/Users/frederic/Desktop/yt.py",
+		"/C/Users/frederic/Desktop/focus.py",
+		"/C/Users/frederic/Desktop/Quadratic_Assignment Per_Scholas.py",
+		"/C/Users/frederic/Desktop/driver=webdriver.py",
+		"/C/Users/frederic/Desktop/testcase2.py",
+		"/C/Users/frederic/Desktop/testcase1.py",
+		"/C/Users/frederic/Desktop/PerScholas/webdriver2.py",
+		"/C/Users/frederic/Desktop/mortgage_py.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ul",
+			"esk",
+			" \n",
+			"/\"><"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index1.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
